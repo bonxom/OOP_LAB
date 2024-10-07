@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 public class Cart {
-    public static final int MAX_NUMBERS_ORERED = 3;
+    public static final int MAX_NUMBERS_ORERED = 20;
     private DigitalVideoDisc[] itemOrdered = new DigitalVideoDisc[MAX_NUMBERS_ORERED];
     private int qtyOrder = 0;
 
